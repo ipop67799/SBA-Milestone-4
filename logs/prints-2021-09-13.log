@@ -1,0 +1,9 @@
+11:36:06.577 [main] INFO  pageObjects.homePage - HomePage load successful
+11:36:42.565 [main] INFO  pageObjects.homePage - Click successful
+11:38:30.102 [main] INFO  pageObjects.homePage - Search successful
+11:39:48.935 [main] INFO  pageObjects.homePage - HomePage load successful
+11:44:21.932 [main] INFO  pageObjects.homePage - HomePage load successful
+11:46:42.565 [main] INFO  pageObjects.memberBenefitsPage - Click successful
+11:48:50.443 [main] INFO  pageObjects.homePage - Test execution successful
+11:53:52.608 [main] INFO  pageObjects.searchHotelPage - Address match successful
+11:58:50.443 [main] INFO  pageObjects.homePage - Test execution successful
